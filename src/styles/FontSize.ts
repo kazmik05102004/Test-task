@@ -1,0 +1,15 @@
+export const TextFontSize = {
+  nano: 12,
+  micro: 14,
+  semimini: 18,
+  mini: 20,
+  little: 22,
+  small: 24,
+  regular: 26,
+  medium: 28,
+  strong: 30,
+  large: 32,
+  xlarge: 34,
+  headline: 40,
+  great: 50,
+};
